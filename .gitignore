@@ -27,6 +27,11 @@ homework/Pandas_select_merge/STOCK_DAY_0050_202010.csv
 homework/.ipynb_checkpoints/D11 Homework Pandas 中的算術運算特性-checkpoint.ipynb
 homework/.ipynb_checkpoints/D11A Homework Pandas 中的算術運算特性-checkpoint.ipynb
 homework/.ipynb_checkpoints/D12 Homework Pandas 迭代與重複操作-checkpoint.ipynb
+<<<<<<< HEAD
 homework/.ipynb_checkpoints/D13 Homework Pandas Dataframe 的新增與刪除-checkpoint.ipynb
 homework/.ipynb_checkpoints/D14 Homework Pandas 的外部資料存取-checkpoint.ipynb
 homework/.ipynb_checkpoints/D14-checkpoint.csv
+=======
+>>>>>>> parent of 343059f (2020/4/26)
+homework/.ipynb_checkpoints/D14A2 Homework Pandas 的外部資料存取-checkpoint.ipynb
+homework/.ipynb_checkpoints/D15 Homework 用 Pandas 撰寫樞紐分析表-checkpoint.ipynb
